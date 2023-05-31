@@ -12,6 +12,7 @@ Client:
 3. Get the IP address to be converted into MAC address.
 4. Send this IP address to server.
 5. Server returns the MAC address to client.
+
 Server:
 1. Start the program
 2. Accept the socket which is created by the client.
@@ -50,6 +51,7 @@ while True:
 CLIENT:
 
 ![3aclient](https://github.com/Vanisha0609/EX-4/assets/119104009/002079ec-b94d-41a8-b27a-4d7ed8b21b06)
+
 SERVER:
 
 ![3aserver](https://github.com/Vanisha0609/EX-4/assets/119104009/b1544166-5e69-4904-a6fe-411e3bf40c74)
